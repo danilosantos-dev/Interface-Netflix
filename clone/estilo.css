@@ -13,8 +13,6 @@ body{
     background:var(--preta);
     font-family: 'Arial ,Times New Roman', Times, serif;
     color: white;
-    max-width: 1300px;
-    
 }
 .cabecalho{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
